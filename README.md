@@ -1,3 +1,3 @@
 # Hallo wold
-# Benim ilk denemem
-# ingilisce yazisini duzeltim
+Benim ilk denemem
+ingilisce yazisini duzeltim
