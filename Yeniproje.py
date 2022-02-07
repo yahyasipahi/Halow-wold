@@ -6,3 +6,12 @@ print('Baslik')
 print('Helo wold')
 print()
 print('baravo! '  + ad + ' nin ilk programi')
+
+def carpay(x,y):
+    carpi=x*y
+    return carpi
+
+suma=carpay(5,5)
+print(suma)
+liste=[28, 13, 'pz', 'amerika']
+print(liste)
